@@ -1,0 +1,29 @@
+body {
+    background-color: aliceblue;
+}
+
+.card {
+    border: 2px black solid;
+    margin: 10px;
+    padding: 0;
+}
+
+.card-header {
+    border-bottom: 2px black solid;
+    font-size: 40px;
+    margin: 0px;
+    padding: 8px;
+}
+
+.expand-button {
+    float: right;
+}
+
+.card-body {
+    padding: 10px;
+    display: none;
+}
+
+.show {
+    display: block;
+}
